@@ -1,0 +1,2 @@
+SW_NAME = "pyAWB"
+SW_VERSION = "0.1.0"
